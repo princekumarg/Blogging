@@ -2,6 +2,13 @@
 
 This project is a dynamic blogging website built using React, React Redux for state management, Appwrite for backend services, and Tailwind CSS for styling. The website allows users to create, edit, and delete blog posts, manage user authentication, and interact with a responsive and visually appealing user interface.
 
+## Demo Project
+
+
+https://github.com/princekumarg/Blogging/assets/86905668/eadbd101-9e8d-497b-8412-bf043126b62e
+
+
+
 ## Key Features
 
 - **User Authentication:** Implement secure user authentication using Appwrite's authentication services, including login, logout, and user profile management.
